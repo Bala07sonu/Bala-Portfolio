@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bala-Portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Bala-Portfolio/static/js/main.13f73f80.js",
+    "static/js/453.acca0757.chunk.js": "/Bala-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/Profile.png": "/Bala-Portfolio/static/media/Profile.423b8272933bfaac4dae.png",
+    "static/media/react.png": "/Bala-Portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/nodejs.png": "/Bala-Portfolio/static/media/nodejs.7c9a06311e80d381d768.png",
+    "static/media/Playwright.png": "/Bala-Portfolio/static/media/Playwright.64adf7c27bb5e31fd9a3.png",
+    "static/media/java.png": "/Bala-Portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/ExpressJs.png": "/Bala-Portfolio/static/media/ExpressJs.6de2585ce2566c862a58.png",
+    "static/media/NextJs.png": "/Bala-Portfolio/static/media/NextJs.6de2585ce2566c862a58.png",
+    "static/media/selenium.png": "/Bala-Portfolio/static/media/selenium.054972ccd45357b4d809.png",
+    "static/media/html.png": "/Bala-Portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/Bala-Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "index.html": "/Bala-Portfolio/index.html",
+    "main.e6c13ad2.css.map": "/Bala-Portfolio/static/css/main.e6c13ad2.css.map",
+    "main.13f73f80.js.map": "/Bala-Portfolio/static/js/main.13f73f80.js.map",
+    "453.acca0757.chunk.js.map": "/Bala-Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.13f73f80.js"
+  ]
+}
